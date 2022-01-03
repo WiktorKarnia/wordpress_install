@@ -32,5 +32,7 @@
 ### Jeśli wszystko zostało poprawnie uzupełnione i zapisane to po wykonaniu komendy:
      ansible-playbook -i hosts.ini setup_wordpress.yaml
 ### wszystko powinno zostać zainstalowane na wybraną przez nas maszynę i po wpisaniu jej IP w dowolną przeglądarkę powinien wyświetlić się nam nasz blog.
+![wp_test_0](pic/wp_test_0.jpg)
+
 ![wp_test](pic/wp_test.jpg)
 
